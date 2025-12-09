@@ -1,6 +1,6 @@
 # Hand Tracker with AR Cube
 
-A simple Python project exploring real-time hand tracking and basic Augmented Reality (AR) visualization.
+I wanted to have some fun exploring the MediaPipe library and learning the basics of it, so I made this simple Python project for real-time hand tracking and basic Augmented Reality (AR) visualization.
 
 ## Overview
 
@@ -36,4 +36,3 @@ This application uses your webcam to detect hand gestures and overlay an interac
 - Show your hand to the camera.
 - Pinch thumb and index finger to control the cube.
 - Press 'q' to exit.
-
