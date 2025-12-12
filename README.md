@@ -36,3 +36,4 @@ This application uses your webcam to detect hand gestures and overlay an interac
 - Show your hand to the camera.
 - Pinch thumb and index finger to control the cube.
 - Press 'q' to exit.
+
